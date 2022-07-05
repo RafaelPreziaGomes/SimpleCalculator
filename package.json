@@ -1,0 +1,23 @@
+{
+  "name": "simplecalculator",
+  "version": "1.0.0",
+  "description": "A challenge provided by Angela Yu in which I was designated to create a simple calculator that runs in the backend and it returns the result to the user in a very simple and straightfoward way.",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafaelPreziaGomes/SimpleCalculator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RafaelPreziaGomes/SimpleCalculator/issues"
+  },
+  "homepage": "https://github.com/RafaelPreziaGomes/SimpleCalculator#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1"
+  }
+}
