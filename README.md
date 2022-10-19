@@ -2,6 +2,13 @@
 
 A challenge provided by Angela Yu in which I was designated to create a simple calculator that runs in the backend and it returns the BMI result to the user in a very simple and straightfoward way.
 
+## Tech Stack
+
+**Client:** HTML
+
+**Server:** Node.js
+
+
 ## Screenshots
 
 Not Avaible (Application provides minimal UI)
@@ -15,6 +22,8 @@ git clone repository
 cd my-project
 node calculator.js
 ```
+
+
 
 ## Features
 
